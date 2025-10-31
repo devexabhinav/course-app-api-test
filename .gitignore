@@ -1,10 +1,7 @@
 # Node.js
 node_modules/
-.env
-.env.local
 dist/
 coverage/
-.env.local
 package-lock.json
 /uploads
 # Logs
@@ -17,3 +14,4 @@ Thumbs.db
 # IDEs
 .vscode/
 .idea/
+config.bat
